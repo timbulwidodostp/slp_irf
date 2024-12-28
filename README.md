@@ -1,5 +1,4 @@
-# slp_irf
-
+# Smooth Local Projections from Barnichon and Brownlees (2019) Use slp_irf With STATA 18
 
 Olah Data Semarang
 
