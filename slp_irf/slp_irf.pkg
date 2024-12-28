@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'slp_irf': Smooth Local Projections from Barnichon and Brownlees (2019) Use slp_irf With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f bspline.ado
+f bspline.sthlp
+f flexcurv.ado
+f flexcurv.sthlp
+f frencurv.ado
+f frencurv.sthlp
+f hac_tsls.m
+f slp_irf.ado
+f slp_irf.sthlp
